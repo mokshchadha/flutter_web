@@ -58,7 +58,7 @@ linter:
     camel_case_extensions: true
     cascade_invocations: true
     curly_braces_in_flow_control_structures: true
-    diagnostic_describe_all_properties: true
+    diagnostic_describe_all_properties: false #TODO: come back and research this
     only_throw_errors: true
     prefer_adjacent_string_concatenation: true
     prefer_asserts_in_initializer_lists: true
